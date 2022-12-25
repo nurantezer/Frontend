@@ -1,0 +1,164 @@
+1. Mevcut git sürümünüzü nasıl kontrol edebilirsiniz?
+A. git --v
+B. git --version
+C. git --option
+D. git --current
+B
+
+2. Git ile etkileşim için aşağıdaki komut satırı ortamlarından hangisi kullanılır?
+A.Git Bash
+B. Git Hub'ı
+C. Git Önyüklemesi
+D. Git Laboratuvarı
+A
+
+3. Bu terimlerden hangisi Git'i en iyi tanımlar?
+A. Sayı Takip Sistemi
+B.Entegre Geliştirme Ortamı
+C.Dağıtılmış Versiyon Kontrol Sistemi
+D.Web Tabanlı Depo Barındırma Hizmeti
+C
+
+4. Aşağıdaki komutu kullandığınızda aşağıdakilerden hangisi doğrudur?
+git add -A
+A. Tüm yeni ve güncellenmiş dosyalar hazırlanır
+B. Dosyalar alfabetik sırayla düzenlenir
+C. Tüm yeni dosyalar hazırlanır
+D. Yalnızca güncellenen dosyalar hazırlanır
+A
+
+5. Git yapılandırmalarını tüm git ortamınıza uygulamak için hangi seçeneği kullanabilirsiniz?
+A. --all
+B. --master
+C. --global
+D. --update
+C  
+SYSTEM
+6. Mevcut bir git deposunu klonlarsanız ne olur?
+A. Yeni bir kopya, merkezi deponun üzerine yazacaktır.
+B. Deponun bir kopyası yerel makinenizde oluşturulacaktır.
+C. Hiçbir şey, klonlama desteklenen bir git işlevi değil
+D. Barındırma platformunda havuzun bir kopyası oluşturulacaktır.
+B
+
+7. Hangi komut, belirtilen dizinde boş bir Git deposu oluşturur?
+
+A. git reset
+B. git log ..
+C. git init
+D. git init --bare
+C
+
+
+8. Aşağıdaki komutlardan hangisi test adlı dizini oluşturmaya yardımcı olur?
+
+A. mkdir test
+B. md test
+C. dir test
+D. None of the above
+A
+
+9. Git Pull is a combination of:
+A. fetch and merge
+B. branch and checkout
+C. add and commit
+D. commit and pull
+A
+
+10. What is the command to add the remote repository "https://github.com/clarusway/prep.git" as
+"origin"?
+A. git add origin https://github.com/clarusway/prep.git
+B. git https://github.com/clarusway/prep.git
+C. git remote add origin https://github.com/clarusway/prep.git
+D. git remote https://github.com/clarusway/prep.git
+C
+
+11.Git klonunun tersi nedir, kodunuzu GitHub'dan indirmek yerine,
+değişiklikler ve kod GitHub'a geri dönsün mü?
+A. git push
+B. git upload
+C. git add
+D. git status
+A
+12. Aşağıdaki komut Terminal'e ne yazdıracak?
+git remote -v
+A. Çalıştırmakta olduğunuz geçerli git sürümü
+B. Uzak depoları değiştirmek için bir satır içi düzenleyici
+C. Uzak depoların listesi ve URL'leri
+D. Yüklediğiniz son 5 git sürümü
+C
+13. Bir HTML sayfası oluşturmak ve görüntülemek için _?
+A. Web browser
+B. Text editor
+C. Both [A] and [B]
+D. None of the above
+C
+
+14. What does the < br > tag add to your webpage?
+
+A. Long break
+B. Line break
+C. Paragraph break
+D. None of the above
+B
+15. Which of the following tag <...> is used to mark a begining of paragraph?
+A. pr
+B. td
+C. br
+D. p
+D
+
+16. Metne kalın stil uygulamanın en iyi yolu nedir?
+A.<strong>
+B. Use CSS
+C.<bold>
+D. <b>
+A
+
+17. Bir belgenin HTML5'te yazıldığını nasıl onaylarsınız?
+A.The server wraps the webpage in an HTML5 wrapper.
+B.Use the <!DOCTYPE html> declaration that starts the document.
+C.The browser receives encoding from the server to display the document with HTML5.
+D.It is enclosed in a <html> tag.
+B
+1. Git nedir?
+Cevap: GIT, dağıtılmış bir sürüm kontrol sistemi ve kaynak kod yönetimi (SCM) sistemidir.
+küçük ve büyük projeleri hız ve verimlilikle ele almak.
+2. Git ve Github arasındaki fark nedir?
+Cevap:
+Git, kaynak kodundaki değişiklikleri izlemek için kullanılan dağıtılmış yapıya sahip bir sürüm kontrol sistemidir.
+yazılım geliştirme. Programcılar arasında koordinasyon çalışmasına yardımcı olur, ancak izlemek için kullanılabilir.
+herhangi bir dosya kümesindeki değişiklikler. Git'in ana hedefleri hız, veri bütünlüğü ve
+dağıtılmış, doğrusal olmayan iş akışları.
+GitHub bir Git veri havuzu barındırma hizmetidir ve ayrıca kendi özelliklerinin birçoğunu ekler. GitHub sağlar
+Web tabanlı grafik arayüz. Ayrıca erişim kontrolü ve çeşitli işbirliği özellikleri, temel görev sağlar.
+her proje için yönetim araçları.*
+
+3. HTML Neyi İfade Eder?
+Cevap: HTML (HyperText Markup Language), içeriğinizin yapısını tanımlayan bir biçimlendirme dilidir.
+HTML, içeriğin farklı bölümlerini çevrelemek veya sarmak için kullandığınız bir dizi öğeden oluşur.
+belirli bir şekilde görünün veya belirli bir şekilde hareket edin. Ekteki etiketler, bir yere bir kelime veya resim köprüsü oluşturabilir
+yoksa sözcükleri italik yapabilir, yazı tipini büyütebilir veya küçültebilir vb.
+
+4. Çeşitli Git deposu barındırma hizmetlerinden bahseder misiniz?
+
+Github
+Gitlab
+Bitbucket
+SourceForge
+GitEnterprise
+
+
+5. Etiketler nedir?
+Cevap:
+HTML etiketleri üç şeyden oluşur: açılış etiketi, içerik ve bitiş etiketi. Bazı etiketler kapatılmamış etiketlerdir.HTML belgeleri iki şey içerir: içerik ve etiketler
+Bir web tarayıcısı bir HTML belgesini okuduğunda, onu yukarıdan aşağıya ve soldan sağa okur. HTML
+etiketler, HTML belgeleri oluşturmak ve özelliklerini oluşturmak için kullanılır. Her HTML etiketinin farklı özellikleri vardır.
+
+6. Bir HTML kaç tür başlık içerir?
+Cevap:
+HTML, h1 ila h6 etiketleriyle tanımlanan altı tür başlık içerir. Her tür başlık etiketi
+diğerinden farklı metin boyutu görüntüler. Yani, h1 en büyük başlık etiketi ve h6 en küçük olanıdır.
+
+
+
